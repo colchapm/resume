@@ -1,8 +1,12 @@
 h1 {
-  color: cornflowerblue;
+  color: slategrey;
   font-weight: bold;
   font-size: 400 px;
   text-align: left;
+}
+
+h3 {
+  color: slategrey;
 }
 
 .address {
@@ -12,17 +16,22 @@ h1 {
 
 .place {
   font-weight: bold;
+  font-size: 15px;
 }
 
 .title {
   font-style: italic;
+  font-size: 15px;
 }
 
 .date {
   font-style: italic;
   text-align: right;
+  font-size: 15px;
+
 }
 
 .responsibilities {
   background-color: lightsteelblue;
+  font-size: 14px;
 }
