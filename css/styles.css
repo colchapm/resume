@@ -1,0 +1,28 @@
+h1 {
+  color: cornflowerblue;
+  font-weight: bold;
+  font-size: 400 px;
+  text-align: left;
+}
+
+.address {
+  text-align: right;
+  font-size: small;
+}
+
+.place {
+  font-weight: bold;
+}
+
+.title {
+  font-style: italic;
+}
+
+.date {
+  font-style: italic;
+  text-align: right;
+}
+
+.responsibilities {
+  background-color: lightsteelblue;
+}
